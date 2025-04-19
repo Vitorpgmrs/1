@@ -1,7 +1,13 @@
 <?php
-session_start();
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
+
+// Restante do seu código index.php
+?>
+<?
 if (!isset($_SESSION['usuario'])) {
-  header("Location: /Estofaria/public/login.php");
+  header("Location: login.php");
   exit;
 }
 ?>

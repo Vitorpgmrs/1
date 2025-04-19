@@ -1,0 +1,36 @@
+[2025-04-19 04:35:53] Database Error: SQLSTATE[HY000] [1049] Unknown database 'estofaria_dev' in C:\xampp\htdocs\Estofaria\config\database.php on line 40
+Stack Trace:
+#0 C:\xampp\htdocs\Estofaria\config\database.php(40): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\Estofaria\config\database.php(57): Database->__construct()
+#2 C:\xampp\htdocs\Estofaria\public\minha-conta\index.php(13): Database::getInstance()
+#3 {main}
+[2025-04-19 04:36:06] Database Error: SQLSTATE[HY000] [1049] Unknown database 'estofaria_dev' in C:\xampp\htdocs\Estofaria\config\database.php on line 40
+Stack Trace:
+#0 C:\xampp\htdocs\Estofaria\config\database.php(40): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\Estofaria\config\database.php(57): Database->__construct()
+#2 C:\xampp\htdocs\Estofaria\public\minha-conta\index.php(13): Database::getInstance()
+#3 {main}
+[2025-04-19 04:39:10] Database Error: SQLSTATE[HY000] [1049] Unknown database 'estofaria_dev' in C:\xampp\htdocs\Estofaria\config\database.php on line 40
+Stack Trace:
+#0 C:\xampp\htdocs\Estofaria\config\database.php(40): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\Estofaria\config\database.php(57): Database->__construct()
+#2 C:\xampp\htdocs\Estofaria\public\minha-conta\index.php(13): Database::getInstance()
+#3 {main}
+[2025-04-19 04:40:08] Database Error: SQLSTATE[HY000] [1049] Unknown database 'estofaria_dev' in C:\xampp\htdocs\Estofaria\config\database.php on line 40
+Stack Trace:
+#0 C:\xampp\htdocs\Estofaria\config\database.php(40): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\Estofaria\config\database.php(57): Database->__construct()
+#2 C:\xampp\htdocs\Estofaria\public\minha-conta\index.php(13): Database::getInstance()
+#3 {main}
+[2025-04-19 04:40:09] Database Error: SQLSTATE[HY000] [1049] Unknown database 'estofaria_dev' in C:\xampp\htdocs\Estofaria\config\database.php on line 40
+Stack Trace:
+#0 C:\xampp\htdocs\Estofaria\config\database.php(40): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\Estofaria\config\database.php(57): Database->__construct()
+#2 C:\xampp\htdocs\Estofaria\public\minha-conta\index.php(13): Database::getInstance()
+#3 {main}
+[2025-04-19 04:40:13] Database Error: SQLSTATE[HY000] [1049] Unknown database 'estofaria_dev' in C:\xampp\htdocs\Estofaria\config\database.php on line 40
+Stack Trace:
+#0 C:\xampp\htdocs\Estofaria\config\database.php(40): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\Estofaria\config\database.php(57): Database->__construct()
+#2 C:\xampp\htdocs\Estofaria\public\minha-conta\index.php(13): Database::getInstance()
+#3 {main}
